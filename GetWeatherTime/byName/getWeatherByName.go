@@ -1,7 +1,9 @@
 package byname
 
 import (
+	"encoding/json"
 	"log"
+	owmstr "main/Struct/owmStr"
 	"main/config"
 	"net/http"
 
@@ -10,7 +12,7 @@ import (
 
 func GetWeatherByName(c *gin.Context) {
 
-	city := c.DefaultQuery("city", "Unknown")
+	city := c.Query("name")
 	log.Println(city)
 
 	if city == "" {
@@ -29,13 +31,12 @@ func GetWeatherByName(c *gin.Context) {
 	}
 	defer response.Body.Close()
 
-	response, err = http.Get(apiURL)
+	var weatherData owmstr.WeatherData
+	err = json.NewDecoder(response.Body).Decode(&weatherData)
 	if err != nil {
-		c.JSON(http.StatusInternalServerError, gin.H{"error": "WatherAPI error"})
-		return
+		log.Fatalf("Ошибка при декодировании JSON: %s", err)
 	}
-	defer response.Body.Close()
 
-	log.Println(response.Body)
+	log.Println(weatherData)
 
 }
