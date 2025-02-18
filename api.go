@@ -2,15 +2,21 @@ package main
 
 import (
 	"log"
-	byname "main/GetWeatherTime/byName"
+	cache "main/Cache"
+	getwt "main/GetWeatherTime/GetWT"
+	loggerconfig "main/LoggerConfig"
+	corsmiddleware "main/corsMiddleware"
 
 	"github.com/gin-gonic/gin"
 )
 
 func main() {
-	r := gin.Default()
+	cache.Cache.Init(100)
+	loggerconfig.Init()
 
-	r.GET("/weather", byname.GetWeatherByName)
+	r := gin.Default()
+	r.Use(corsmiddleware.CorsMiddleware())
+	r.GET("/weather", getwt.GetWT)
 
 	log.Println("Server starting at :8080")
 	log.Fatal(r.Run(":8080"))

@@ -1,0 +1,164 @@
+time="2025-02-18T20:48:09+07:00" level=info msg="Новосибирск"
+time="2025-02-18T20:48:09+07:00" level=info msg="Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирск&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru"
+time="2025-02-18T20:48:12+07:00" level=info msg="Новосибирск"
+time="2025-02-18T20:48:12+07:00" level=info msg="Request for Новосибирск is already exist!"
+[36mINFO[0m[2025-02-18 20:49:32] Новосибирск                                  
+[36mINFO[0m[2025-02-18 20:49:32] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирск&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-18 20:49:35] Новосибирск                                  
+[36mINFO[0m[2025-02-18 20:49:35] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 20:51:28] Новосибирск                                  
+[36mINFO[0m[2025-02-18 20:51:28] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирск&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-18 20:51:29] Response on front: {200 Новосибирск -10.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 20:51:29] Response has been sent                       
+[36mINFO[0m[2025-02-18 20:51:31] Новосибирск                                  
+[36mINFO[0m[2025-02-18 20:51:31] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 20:55:00] Новfdfgdfgdfgfg                              
+[36mINFO[0m[2025-02-18 20:55:00] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новfdfgdfgdfgfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 20:55:00] Error decode OpenWeatherAPI JSON:  json: cannot unmarshal string into Go struct field WeatherData.cod of type int 
+[36mINFO[0m[2025-02-18 20:56:01] Новfdfgdfgdfgfg                              
+[36mINFO[0m[2025-02-18 20:56:01] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новfdfgdfgdfgfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 20:56:01] Error decode OpenWeatherAPI JSON:  json: cannot unmarshal string into Go struct field WeatherData.cod of type int 
+[36mINFO[0m[2025-02-18 20:56:14] Новfdfgdfgdfgfg                              
+[36mINFO[0m[2025-02-18 20:56:14] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новfdfgdfgdfgfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 20:56:14] Incorrect city name                          
+[36mINFO[0m[2025-02-18 20:56:55] Новfdfgdfgdfgfg                              
+[36mINFO[0m[2025-02-18 20:56:55] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новfdfgdfgdfgfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 20:56:55] Incorrect city name                          
+[36mINFO[0m[2025-02-18 20:57:48] Новосибирск                                  
+[36mINFO[0m[2025-02-18 20:57:48] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирск&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-18 20:57:48] Response to front: {200 Новосибирск -10.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 20:57:48] Response has been sent                       
+[36mINFO[0m[2025-02-18 20:57:51] Новосибирскfsdgdfgdfg                        
+[36mINFO[0m[2025-02-18 20:57:51] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирскfsdgdfgdfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 20:57:51] Incorrect city name                          
+[36mINFO[0m[2025-02-18 20:58:20] Новосибирск                                  
+[36mINFO[0m[2025-02-18 20:58:20] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 20:58:22] Новосибирск                                  
+[36mINFO[0m[2025-02-18 20:58:22] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 20:58:45] Новосибирск                                  
+[36mINFO[0m[2025-02-18 20:58:45] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирск&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-18 20:58:45] Response to front: {200 Новосибирск -10.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 20:58:45] Response has been sent                       
+[36mINFO[0m[2025-02-18 20:58:49] Новосибирск                                  
+[36mINFO[0m[2025-02-18 20:58:49] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 20:58:49] Response to front: {200 Новосибирск -10.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 20:59:12] Москва                                       
+[36mINFO[0m[2025-02-18 20:59:12] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Москва&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-18 20:59:12] Response to front: {200 Москва -4.43 3 https://openweathermap.org/img/wn/04d@2x.png} 
+[36mINFO[0m[2025-02-18 20:59:12] Response has been sent                       
+[36mINFO[0m[2025-02-18 20:59:19] Москва                                       
+[36mINFO[0m[2025-02-18 20:59:19] Request for Москва is already exist!         
+[36mINFO[0m[2025-02-18 20:59:19] Response to front: {200 Москва -4.43 3 https://openweathermap.org/img/wn/04d@2x.png} 
+[36mINFO[0m[2025-02-18 21:00:39] акпвапвап                                    
+[36mINFO[0m[2025-02-18 21:00:39] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=акпвапвап&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 21:00:39] Incorrect city name                          
+[36mINFO[0m[2025-02-18 21:09:58] Новосибирск                                  
+[36mINFO[0m[2025-02-18 21:09:58] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 21:09:58] Response to front: {200 Новосибирск -10.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:10:33] Новосибирск                                  
+[36mINFO[0m[2025-02-18 21:10:33] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 21:10:33] Response to front: {200 Новосибирск -10.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:10:43] Новосибирск                                  
+[36mINFO[0m[2025-02-18 21:10:43] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 21:10:43] Response to front: {200 Новосибирск -10.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:10:46] Новосибирскffgdfgdfgdfg                      
+[36mINFO[0m[2025-02-18 21:10:46] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирскffgdfgdfgdfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 21:10:46] Incorrect city name                          
+[36mINFO[0m[2025-02-18 21:11:57] Новосибирскffgdfgdfgdfg                      
+[36mINFO[0m[2025-02-18 21:11:57] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирскffgdfgdfgdfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 21:11:58] Incorrect city name                          
+[36mINFO[0m[2025-02-18 21:12:32] Новосибирск                                  
+[36mINFO[0m[2025-02-18 21:12:32] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 21:12:32] Response to front: {200 Новосибирск -10.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:12:35] Новосибирск                                  
+[36mINFO[0m[2025-02-18 21:12:35] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 21:12:35] Response to front: {200 Новосибирск -10.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:12:38] Новосибирскfdgdfgdfgdf                       
+[36mINFO[0m[2025-02-18 21:12:38] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирскfdgdfgdfgdf&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 21:12:38] Incorrect city name                          
+[36mINFO[0m[2025-02-18 21:15:04] Новосибирскfdgdfgdfgdf                       
+[36mINFO[0m[2025-02-18 21:15:04] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирскfdgdfgdfgdf&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 21:15:05] Incorrect city name                          
+[36mINFO[0m[2025-02-18 21:15:08] Новосибирскfdgdfgdfgdf                       
+[36mINFO[0m[2025-02-18 21:15:08] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирскfdgdfgdfgdf&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 21:15:08] Incorrect city name                          
+[36mINFO[0m[2025-02-18 21:18:02] Новосибирск                                  
+[36mINFO[0m[2025-02-18 21:18:02] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 21:18:02] Response to front: {200 Новосибирск -10.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:18:05] Новосибирск                                  
+[36mINFO[0m[2025-02-18 21:18:05] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 21:18:05] Response to front: {200 Новосибирск -10.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:18:26] Новосибирск                                  
+[36mINFO[0m[2025-02-18 21:18:26] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 21:18:26] Response to front: {200 Новосибирск -10.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:18:39] Новосибирскfdfgfg                            
+[36mINFO[0m[2025-02-18 21:18:39] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирскfdfgfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 21:18:39] Incorrect city name                          
+[36mINFO[0m[2025-02-18 21:18:51] Новосибирскfdfgfg                            
+[36mINFO[0m[2025-02-18 21:18:51] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирскfdfgfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 21:18:52] Incorrect city name                          
+[36mINFO[0m[2025-02-18 21:19:32] Новосибирскfdfgfg                            
+[36mINFO[0m[2025-02-18 21:19:32] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирскfdfgfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 21:19:32] Incorrect city name                          
+[36mINFO[0m[2025-02-18 21:32:47] Новосибирск                                  
+[36mINFO[0m[2025-02-18 21:32:47] Find by name: Новосибирск                    
+[36mINFO[0m[2025-02-18 21:32:47] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирск&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-18 21:32:47] Response to front: {200 Новосибирск -13.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:32:47] Response has been sent                       
+[36mINFO[0m[2025-02-18 21:32:59] Новосибирск                                  
+[36mINFO[0m[2025-02-18 21:32:59] Find by name: Новосибирск                    
+[36mINFO[0m[2025-02-18 21:32:59] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-18 21:32:59] Response to front: {200 Новосибирск -13.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:33:32] 123123213                                    
+[36mINFO[0m[2025-02-18 21:44:53] 123123213                                    
+[36mINFO[0m[2025-02-18 21:48:19] Новосибирск                                  
+[36mINFO[0m[2025-02-18 21:48:19] Find by name: Новосибирск                    
+[36mINFO[0m[2025-02-18 21:48:19] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирск&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-18 21:48:19] Response to front: {200 0 Новосибирск -13.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:48:19] Response has been sent                       
+[36mINFO[0m[2025-02-18 21:48:23] 23123123                                     
+[36mINFO[0m[2025-02-18 21:48:23] Find by id: 23123123                         
+[36mINFO[0m[2025-02-18 21:48:23] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=23123123&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 21:48:23] Incorrect city name                          
+[36mINFO[0m[2025-02-18 21:48:48] 1496747                                      
+[36mINFO[0m[2025-02-18 21:48:48] Find by id: 1496747                          
+[36mINFO[0m[2025-02-18 21:48:48] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=1496747&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 21:48:48] Incorrect city name                          
+[36mINFO[0m[2025-02-18 21:49:24] 1496747                                      
+[36mINFO[0m[2025-02-18 21:49:24] Find by id: 1496747                          
+[36mINFO[0m[2025-02-18 21:49:24] Reguest on: https://api.openweathermap.org/data/2.5/weather?id=1496747&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-18 21:49:24] Response to front: {200 8958 Новосибирск -13.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:49:24] Response has been sent                       
+[36mINFO[0m[2025-02-18 21:49:38] 498817                                       
+[36mINFO[0m[2025-02-18 21:49:38] Find by id: 498817                           
+[36mINFO[0m[2025-02-18 21:49:38] Reguest on: https://api.openweathermap.org/data/2.5/weather?id=498817&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-18 21:49:38] Response to front: {200 2101037 Санкт-Петербург -5.53 3 https://openweathermap.org/img/wn/13d@2x.png} 
+[36mINFO[0m[2025-02-18 21:49:38] Response has been sent                       
+[36mINFO[0m[2025-02-18 21:50:13] 1496747                                      
+[36mINFO[0m[2025-02-18 21:50:13] Find by id: 1496747                          
+[36mINFO[0m[2025-02-18 21:50:13] Reguest on: https://api.openweathermap.org/data/2.5/weather?id=1496747&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-18 21:50:13] Response to front: {200 8958 Новосибирск -13.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:50:13] Response has been sent                       
+[36mINFO[0m[2025-02-18 21:50:23] 498817                                       
+[36mINFO[0m[2025-02-18 21:50:23] Find by id: 498817                           
+[36mINFO[0m[2025-02-18 21:50:23] Reguest on: https://api.openweathermap.org/data/2.5/weather?id=498817&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-18 21:50:24] Response to front: {200 2101037 Санкт-Петербург -5.53 3 https://openweathermap.org/img/wn/13d@2x.png} 
+[36mINFO[0m[2025-02-18 21:50:24] Response has been sent                       
+[36mINFO[0m[2025-02-18 21:50:59] 1496747                                      
+[36mINFO[0m[2025-02-18 21:50:59] Find by id: 1496747                          
+[36mINFO[0m[2025-02-18 21:50:59] Reguest on: https://api.openweathermap.org/data/2.5/weather?id=1496747&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-18 21:50:59] Response to front: {200 8958 Новосибирск -13.39 7 https://openweathermap.org/img/wn/50n@2x.png} 
+[36mINFO[0m[2025-02-18 21:50:59] Response has been sent                       
+[36mINFO[0m[2025-02-18 21:55:05] 498817                                       
+[36mINFO[0m[2025-02-18 21:55:05] Find by id: 498817                           
+[36mINFO[0m[2025-02-18 21:55:05] Reguest on: https://api.openweathermap.org/data/2.5/weather?id=498817&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-18 21:55:05] Response to front: {200 2101037 Санкт-Петербург -4.97 3 https://openweathermap.org/img/wn/13d@2x.png} 
+[36mINFO[0m[2025-02-18 21:55:05] Response has been sent                       
+[36mINFO[0m[2025-02-18 21:55:27] 2101037                                      
+[36mINFO[0m[2025-02-18 21:55:27] Find by id: 2101037                          
+[36mINFO[0m[2025-02-18 21:55:27] Request for 2101037 is already exist!        
+[36mINFO[0m[2025-02-18 21:55:27] Response to front: {200 2101037 Санкт-Петербург -4.97 3 https://openweathermap.org/img/wn/13d@2x.png} 
+[36mINFO[0m[2025-02-18 21:55:57] 210156                                       
+[36mINFO[0m[2025-02-18 21:55:57] Find by id: 210156                           
+[36mINFO[0m[2025-02-18 21:55:57] Reguest on: https://api.openweathermap.org/data/2.5/weather?id=210156&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-18 21:55:57] Incorrect city name                          

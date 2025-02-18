@@ -6,14 +6,19 @@ type WeatherData struct {
 	Timezone int       `json:"timezone"`
 	Name     string    `json:"name"`
 	Cod      int       `json:"cod"`
+	Syst     Sys       `json:"sys"`
 }
 
 type MainInfo struct {
-	Temp float64 `json:"temp"`
+	Temp float32 `json:"temp"`
 }
 
 type Weather struct {
 	Icon string `json:"icon"`
+}
+
+type Sys struct {
+	Id int `json:"id"`
 }
 
 /*
@@ -29,6 +34,10 @@ type Weather struct {
     "timezone": 25200,
     "name": "Новосибирск",
     "cod": 200
+    "sys": {
+        "id": 197864,
+    },
+
 }
 */
 
