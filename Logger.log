@@ -162,3 +162,171 @@ time="2025-02-18T20:48:12+07:00" level=info msg="Request for Новосибир�
 [36mINFO[0m[2025-02-18 21:55:57] Find by id: 210156                           
 [36mINFO[0m[2025-02-18 21:55:57] Reguest on: https://api.openweathermap.org/data/2.5/weather?id=210156&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
 [31mERRO[0m[2025-02-18 21:55:57] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:00:08] Самара                                       
+[36mINFO[0m[2025-02-21 17:00:08] Find by name: Самара                         
+[36mINFO[0m[2025-02-21 17:00:08] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Самара&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-21 17:00:08] Response to front: {200 0 Самара -9.06 4 https://openweathermap.org/img/wn/04d@2x.png} 
+[36mINFO[0m[2025-02-21 17:00:08] Response has been sent                       
+[36mINFO[0m[2025-02-21 17:05:31] Москва                                       
+[36mINFO[0m[2025-02-21 17:05:31] Find by name: Москва                         
+[36mINFO[0m[2025-02-21 17:05:31] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Москва&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-21 17:05:32] Response to front: {200 0 Москва -3.2 3 https://openweathermap.org/img/wn/03d@2x.png} 
+[36mINFO[0m[2025-02-21 17:05:32] Response has been sent                       
+[36mINFO[0m[2025-02-21 17:05:38] Москва                                       
+[36mINFO[0m[2025-02-21 17:05:38] Find by name: Москва                         
+[36mINFO[0m[2025-02-21 17:05:38] Request for Москва is already exist!         
+[36mINFO[0m[2025-02-21 17:05:38] Response to front: {200 0 Москва -3.2 3 https://openweathermap.org/img/wn/03d@2x.png} 
+[36mINFO[0m[2025-02-21 17:10:09] Москва                                       
+[36mINFO[0m[2025-02-21 17:10:09] Find by name: Москва                         
+[36mINFO[0m[2025-02-21 17:10:09] Request for Москва is already exist!         
+[36mINFO[0m[2025-02-21 17:10:09] Response to front: {200 0 Москва -3.2 3 https://openweathermap.org/img/wn/03d@2x.png} 
+[36mINFO[0m[2025-02-21 17:10:21] Москва                                       
+[36mINFO[0m[2025-02-21 17:10:21] Find by name: Москва                         
+[36mINFO[0m[2025-02-21 17:10:21] Request for Москва is already exist!         
+[36mINFO[0m[2025-02-21 17:10:21] Response to front: {200 0 Москва -3.2 3 https://openweathermap.org/img/wn/03d@2x.png} 
+[36mINFO[0m[2025-02-21 17:10:27] Самара                                       
+[36mINFO[0m[2025-02-21 17:10:27] Find by name: Самара                         
+[36mINFO[0m[2025-02-21 17:10:27] Request for Самара is already exist!         
+[36mINFO[0m[2025-02-21 17:10:27] Response to front: {200 0 Самара -9.06 4 https://openweathermap.org/img/wn/04d@2x.png} 
+[36mINFO[0m[2025-02-21 17:10:33] Екатеринбург                                 
+[36mINFO[0m[2025-02-21 17:10:33] Find by name: Екатеринбург                   
+[36mINFO[0m[2025-02-21 17:10:33] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Екатеринбург&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-21 17:10:33] Response to front: {200 0 Екатеринбург -8.23 5 https://openweathermap.org/img/wn/03d@2x.png} 
+[36mINFO[0m[2025-02-21 17:10:33] Response has been sent                       
+[36mINFO[0m[2025-02-21 17:15:38] вавава                                       
+[36mINFO[0m[2025-02-21 17:15:38] Find by name: вавава                         
+[36mINFO[0m[2025-02-21 17:15:38] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вавава&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:15:38] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:18:37] вавава                                       
+[36mINFO[0m[2025-02-21 17:18:37] Find by name: вавава                         
+[36mINFO[0m[2025-02-21 17:18:37] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вавава&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:18:37] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:20:51] вавава                                       
+[36mINFO[0m[2025-02-21 17:20:51] Find by name: вавава                         
+[36mINFO[0m[2025-02-21 17:20:51] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вавава&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:20:51] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:24:16] вавава                                       
+[36mINFO[0m[2025-02-21 17:24:16] Find by name: вавава                         
+[36mINFO[0m[2025-02-21 17:24:16] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вавава&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:24:17] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:24:19] вавава                                       
+[36mINFO[0m[2025-02-21 17:24:19] Find by name: вавава                         
+[36mINFO[0m[2025-02-21 17:24:19] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вавава&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:24:19] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:25:24] вавава                                       
+[36mINFO[0m[2025-02-21 17:25:24] Find by name: вавава                         
+[36mINFO[0m[2025-02-21 17:25:24] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вавава&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:25:24] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:25:48] вавава                                       
+[36mINFO[0m[2025-02-21 17:25:48] Find by name: вавава                         
+[36mINFO[0m[2025-02-21 17:25:48] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вавава&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:25:48] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:26:28] вавава                                       
+[36mINFO[0m[2025-02-21 17:26:28] Find by name: вавава                         
+[36mINFO[0m[2025-02-21 17:26:28] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вавава&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:26:28] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:26:29] вавава                                       
+[36mINFO[0m[2025-02-21 17:26:29] Find by name: вавава                         
+[36mINFO[0m[2025-02-21 17:26:29] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вавава&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:26:29] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:26:55] вавава                                       
+[36mINFO[0m[2025-02-21 17:26:55] Find by name: вавава                         
+[36mINFO[0m[2025-02-21 17:26:55] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вавава&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:26:55] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:26:56] вавава                                       
+[36mINFO[0m[2025-02-21 17:26:56] Find by name: вавава                         
+[36mINFO[0m[2025-02-21 17:26:56] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вавава&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:26:56] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:28:08] вавава                                       
+[36mINFO[0m[2025-02-21 17:28:08] Find by name: вавава                         
+[36mINFO[0m[2025-02-21 17:28:08] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вавава&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:28:08] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:28:17] вавава                                       
+[36mINFO[0m[2025-02-21 17:28:17] Find by name: вавава                         
+[36mINFO[0m[2025-02-21 17:28:17] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вавава&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:28:17] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:29:05] ghghhhgh                                     
+[36mINFO[0m[2025-02-21 17:29:05] Find by name: ghghhhgh                       
+[36mINFO[0m[2025-02-21 17:29:05] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=ghghhhgh&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:29:05] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:29:18] ghghhhgh                                     
+[36mINFO[0m[2025-02-21 17:29:18] Find by name: ghghhhgh                       
+[36mINFO[0m[2025-02-21 17:29:18] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=ghghhhgh&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:29:18] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:29:21] ghghhhgh                                     
+[36mINFO[0m[2025-02-21 17:29:21] Find by name: ghghhhgh                       
+[36mINFO[0m[2025-02-21 17:29:21] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=ghghhhgh&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:29:21] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:29:46] dfgdfg                                       
+[36mINFO[0m[2025-02-21 17:29:46] Find by name: dfgdfg                         
+[36mINFO[0m[2025-02-21 17:29:46] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=dfgdfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:29:47] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:29:48] dfgdfg                                       
+[36mINFO[0m[2025-02-21 17:29:48] Find by name: dfgdfg                         
+[36mINFO[0m[2025-02-21 17:29:48] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=dfgdfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:29:48] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:29:52] dfgdfg                                       
+[36mINFO[0m[2025-02-21 17:29:52] Find by name: dfgdfg                         
+[36mINFO[0m[2025-02-21 17:29:52] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=dfgdfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:29:52] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:30:43] dfgdfg                                       
+[36mINFO[0m[2025-02-21 17:30:43] Find by name: dfgdfg                         
+[36mINFO[0m[2025-02-21 17:30:43] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=dfgdfg&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:30:43] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:30:50] еукеуе                                       
+[36mINFO[0m[2025-02-21 17:30:50] Find by name: еукеуе                         
+[36mINFO[0m[2025-02-21 17:30:50] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=еукеуе&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:30:50] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:33:42] еукеуе                                       
+[36mINFO[0m[2025-02-21 17:33:42] Find by name: еукеуе                         
+[36mINFO[0m[2025-02-21 17:33:42] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=еукеуе&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:33:42] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:33:43] еукеуе                                       
+[36mINFO[0m[2025-02-21 17:33:43] Find by name: еукеуе                         
+[36mINFO[0m[2025-02-21 17:33:43] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=еукеуе&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:33:43] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:33:47] апапав                                       
+[36mINFO[0m[2025-02-21 17:33:47] Find by name: апапав                         
+[36mINFO[0m[2025-02-21 17:33:47] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=апапав&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:33:47] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:33:53] вапвапвап                                    
+[36mINFO[0m[2025-02-21 17:33:53] Find by name: вапвапвап                      
+[36mINFO[0m[2025-02-21 17:33:53] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=вапвапвап&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:33:53] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:34:23] льльль                                       
+[36mINFO[0m[2025-02-21 17:34:23] Find by name: льльль                         
+[36mINFO[0m[2025-02-21 17:34:23] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=льльль&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:34:23] Incorrect city name                          
+[36mINFO[0m[2025-02-21 17:37:29] льльль                                       
+[36mINFO[0m[2025-02-21 17:37:29] Find by name: льльль                         
+[36mINFO[0m[2025-02-21 17:37:29] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=льльль&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 17:37:29] Incorrect city name                          
+[36mINFO[0m[2025-02-21 18:27:53] hjh                                          
+[36mINFO[0m[2025-02-21 18:27:53] Find by name: hjh                            
+[36mINFO[0m[2025-02-21 18:27:53] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=hjh&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[31mERRO[0m[2025-02-21 18:27:53] Incorrect city name                          
+[36mINFO[0m[2025-02-21 18:28:01] Новосибирск                                  
+[36mINFO[0m[2025-02-21 18:28:01] Find by name: Новосибирск                    
+[36mINFO[0m[2025-02-21 18:28:01] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирск&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-21 18:28:01] Response to front: {200 0 Новосибирск -5.39 7 https://openweathermap.org/img/wn/01d@2x.png} 
+[36mINFO[0m[2025-02-21 18:28:01] Response has been sent                       
+[36mINFO[0m[2025-02-21 18:28:06] Новосибирск                                  
+[36mINFO[0m[2025-02-21 18:28:06] Find by name: Новосибирск                    
+[36mINFO[0m[2025-02-21 18:28:06] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-21 18:28:06] Response to front: {200 0 Новосибирск -5.39 7 https://openweathermap.org/img/wn/01d@2x.png} 
+[36mINFO[0m[2025-02-21 18:47:01] Новосибирск                                  
+[36mINFO[0m[2025-02-21 18:47:01] Find by name: Новосибирск                    
+[36mINFO[0m[2025-02-21 18:47:01] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-21 18:47:01] Response to front: {200 0 Новосибирск -5.39 7 https://openweathermap.org/img/wn/01d@2x.png} 
+[36mINFO[0m[2025-02-21 18:47:41] Новосибирск                                  
+[36mINFO[0m[2025-02-21 18:47:41] Find by name: Новосибирск                    
+[36mINFO[0m[2025-02-21 18:47:41] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-21 18:47:41] Response to front: {200 0 Новосибирск -5.39 7 https://openweathermap.org/img/wn/01d@2x.png} 
+[36mINFO[0m[2025-02-21 18:47:42] Новосибирск                                  
+[36mINFO[0m[2025-02-21 18:47:42] Find by name: Новосибирск                    
+[36mINFO[0m[2025-02-21 18:47:42] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-21 18:47:42] Response to front: {200 0 Новосибирск -5.39 7 https://openweathermap.org/img/wn/01d@2x.png} 
+[36mINFO[0m[2025-02-21 18:47:44] Новосибирск                                  
+[36mINFO[0m[2025-02-21 18:47:44] Find by name: Новосибирск                    
+[36mINFO[0m[2025-02-21 18:47:44] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-21 18:47:44] Response to front: {200 0 Новосибирск -5.39 7 https://openweathermap.org/img/wn/01d@2x.png} 
