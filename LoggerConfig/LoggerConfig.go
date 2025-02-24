@@ -19,8 +19,8 @@ func Init() {
 
 	log.SetFormatter(&log.TextFormatter{
 		FullTimestamp:   true,
-		TimestampFormat: "2006-01-02 15:04:05", // Настраиваемый формат времени
-		ForceColors:     true,                  // Форсируем цвета (нужно, если выводить в файл с цветами)
+		TimestampFormat: "2006-01-02 15:04:05",
+		ForceColors:     true,
 	})
 
 	log.SetOutput(multiWriter)

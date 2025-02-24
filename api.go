@@ -18,6 +18,6 @@ func main() {
 	r.Use(corsmiddleware.CorsMiddleware())
 	r.GET("/weather", getwt.GetWT)
 
-	log.Println("Server startукцукцукing at :8080")
-	log.Fatal(r.Run(":8080"))
+	log.Println("Server starting at :8000")
+	log.Fatal(r.Run(":8000"))
 }

@@ -330,3 +330,37 @@ time="2025-02-18T20:48:12+07:00" level=info msg="Request for Новосибир�
 [36mINFO[0m[2025-02-21 18:47:44] Find by name: Новосибирск                    
 [36mINFO[0m[2025-02-21 18:47:44] Request for Новосибирск is already exist!    
 [36mINFO[0m[2025-02-21 18:47:44] Response to front: {200 0 Новосибирск -5.39 7 https://openweathermap.org/img/wn/01d@2x.png} 
+[36mINFO[0m[2025-02-21 12:05:06] Новосибирск                                  
+[36mINFO[0m[2025-02-21 12:05:06] Find by name: Новосибирск                    
+[36mINFO[0m[2025-02-21 12:05:06] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирск&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-21 12:05:06] Response to front: {200 0 Новосибирск -6.39 7 https://openweathermap.org/img/wn/01n@2x.png} 
+[36mINFO[0m[2025-02-21 12:05:06] Response has been sent                       
+[36mINFO[0m[2025-02-24 04:57:49] Новосибирск                                  
+[36mINFO[0m[2025-02-24 04:57:49] Find by name: Новосибирск                    
+[36mINFO[0m[2025-02-24 04:57:49] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Новосибирск&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-24 04:57:49] Response to front: {200 0 Новосибирск -18.39 7 https://openweathermap.org/img/wn/01d@2x.png} 
+[36mINFO[0m[2025-02-24 04:57:49] Response has been sent                       
+[36mINFO[0m[2025-02-24 04:59:12]                                              
+[36mINFO[0m[2025-02-24 04:59:23] Новосибирск                                  
+[36mINFO[0m[2025-02-24 04:59:23] Find by name: Новосибирск                    
+[36mINFO[0m[2025-02-24 04:59:23] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-24 04:59:23] Response to front: {200 0 Новосибирск -18.39 7 https://openweathermap.org/img/wn/01d@2x.png} 
+[36mINFO[0m[2025-02-24 04:59:57] Москва                                       
+[36mINFO[0m[2025-02-24 04:59:57] Find by name: Москва                         
+[36mINFO[0m[2025-02-24 04:59:57] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Москва&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-24 04:59:58] Response to front: {200 0 Москва -12.63 3 https://openweathermap.org/img/wn/01d@2x.png} 
+[36mINFO[0m[2025-02-24 04:59:58] Response has been sent                       
+[36mINFO[0m[2025-02-24 05:00:10] Окленд                                       
+[36mINFO[0m[2025-02-24 05:00:10] Find by name: Окленд                         
+[36mINFO[0m[2025-02-24 05:00:10] Reguest on: https://api.openweathermap.org/data/2.5/weather?q=Окленд&units=metric&appid=40f67d518c521aa5730b66b4cac33b42&lang=ru 
+[36mINFO[0m[2025-02-24 05:00:10] Response to front: {200 0 Окленд -0.99 -5 https://openweathermap.org/img/wn/04n@2x.png} 
+[36mINFO[0m[2025-02-24 05:00:10] Response has been sent                       
+[36mINFO[0m[2025-02-24 05:00:21] Окленд                                       
+[36mINFO[0m[2025-02-24 05:00:21] Find by name: Окленд                         
+[36mINFO[0m[2025-02-24 05:00:21] Request for Окленд is already exist!         
+[36mINFO[0m[2025-02-24 05:00:21] Response to front: {200 0 Окленд -0.99 -5 https://openweathermap.org/img/wn/04n@2x.png} 
+[36mINFO[0m[2025-02-24 05:03:39] Новосибирск                                  
+[36mINFO[0m[2025-02-24 05:03:39] Find by name: Новосибирск                    
+[36mINFO[0m[2025-02-24 05:03:39] Request for Новосибирск is already exist!    
+[36mINFO[0m[2025-02-24 05:03:39] Response to front: {200 0 Новосибирск -18.39 7 https://openweathermap.org/img/wn/01d@2x.png} 
+[36mINFO[0m[2025-02-24 07:58:55]                                              

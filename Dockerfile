@@ -1,16 +1,19 @@
-FROM golang:1.23-alpine
+FROM golang:1.23-alpine AS builder
 
 WORKDIR /app
 
-# Установить зависимости
 COPY go.mod go.sum ./
 RUN go mod download
 
-# Копирование исходного кода в контейнер
 COPY . .
+RUN go build -o main .
 
-# Экспонирование порта
-EXPOSE 8080
+FROM alpine:latest
 
-# Команда для запуска в режиме разработки  docker run -v ${PWD}:/app -w /app -p 8080:8080 --rm bewtdev go run api.go
-CMD ["go", "run", "api.go"]
+WORKDIR /app
+
+COPY --from=builder /app/main .
+
+EXPOSE 8000
+
+CMD ["./main"]
